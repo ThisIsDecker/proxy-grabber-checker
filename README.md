@@ -5,7 +5,6 @@
 ## ▶️ Video Demo
 Watch the full demonstration on YouTube:  
 [![YouTube Demo](https://img.shields.io/badge/YouTube-Demo-red)](https://youtu.be/1ASODvXUTVY)  
-[Direct Link](https://youtu.be/1ASODvXUTVY)
 
 ## 🌟 Features
 - **Multi-threaded architecture** for high performance
@@ -39,7 +38,7 @@ keywords:
   - proxy grabber
   - public proxies
   - proxy scraper
-  - multi-threaded proxy
+  - multi-threaded proxy grabber
   - proxy verifier
   - network tools
 ---
